@@ -1,0 +1,8 @@
+- name: Intellij IDE
+  percentage: 95
+  color: info
+
+- name: FreeCad
+  percentage: 75
+  color: success
+

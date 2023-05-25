@@ -1,0 +1,13 @@
+- name: Java
+  percentage: 90
+  color: danger
+
+- name: Javascript
+  percentage: 80
+  color: secondary
+
+- name: Python
+  percentage: 75
+  color:
+
+

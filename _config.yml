@@ -1,0 +1,99 @@
+### Site Settings ###
+title               : Francesco Giuseppe Zammarrelli
+description         : >-
+  “Find a job you enjoy doing, and you will never have to work a day in your life.”<br> - Mark Twain
+baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+remote_theme        : YoussefRaafatNasry/portfolYOU
+open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
+
+
+### Plugins ###
+plugins:
+  - jemoji
+
+
+### Navbar Settings ###
+nav_exclude:                                            # The following paths are excluded from navbar
+  - pages/tags.html
+  - pages/404.html
+  - pages/index.md
+
+
+### Author Info ###
+author:
+  name              : Francesco Giuseppe Zammarrelli
+  image             : https://avatars.githubusercontent.com/u/65612000?s=400&u=e6f13ad5e93112711d43106d591cafc8f65bf2a7&v=4
+# behance           : your_username
+# dribbble          : your_username
+  email             : zammarrelli.francesco20@gmail.com
+# facebook          : your_username
+  github            : frankzamma
+# gitlab            : your_username
+# instagram         : your_username
+# kaggle            : your_username
+  linkedin          : francesco-giuseppe-zammarrelli-82407921b
+# medium            : your_username
+# soundcloud        : your_username
+# spotify           : your_username
+# stackoverflow     : your_user_id
+# tumblr            : your_username.tumblr.com
+# twitch            : your_username
+#  twitter           : your_username
+# vimeo             : your_username
+# youtube           : your_channel_name
+# keybase           : your_username
+
+
+
+
+### Collections ###
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+
+
+
+### Disqus ###
+disqus:
+  shortname: your-short-name-disqus                     # Your website Shortname on disqus
+
+
+### Analytics ###
+analytics:
+  enabled: false                                        # Set true to enable analytics
+  google:
+    tracking_id: your-google-tracking-id
+
+
+### Buy me a coffee ###
+# See https://www.buymeacoffee.com/
+buymeacoffee:
+  enabled: false
+  username: your_username
+  color: "#007bff"
+  message: "Thank you for visiting."                    # Message to be displayed aside from the button for a few seconds.
+  description: "Support me on Buy me a coffee!"
+
+
+### Defaults for collections ###
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: false                                   # Set to true to enable disqus comments
+
+
+### Exclude from processing ###
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - "*.log"
+  - weatherstyle/*
