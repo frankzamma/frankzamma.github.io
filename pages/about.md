@@ -10,7 +10,7 @@ weight: 3
 Hi I am **{{ site.author.name }}** :wave:<br>
 
 I'm actually studying Computer Science at University of Salerno.<br>
-I'm a tech lover and this are some of my skills 👇.
+I'm a tech lover and this are some of my skills 👇
 
 
 <div class="row">
