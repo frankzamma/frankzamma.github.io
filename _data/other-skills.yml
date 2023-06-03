@@ -2,6 +2,18 @@
   percentage: 95
   color: info
 
+- name: PyCharm
+  percentage: 95
+  color: secondary
+
+- name: Artificial Intelligence
+  percentage: 60
+  color: info
+
+- name: ComputerMusic
+  percentage: 70
+  color: primary
+
 - name: FreeCad
   percentage: 75
   color: success

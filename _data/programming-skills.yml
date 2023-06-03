@@ -3,11 +3,21 @@
   color: danger
 
 - name: Javascript
+  percentage: 86
+  color: secondary
+
+- name: C
   percentage: 80
   color: secondary
 
+- name: Latex
+  percentage: 85
+  color: primary
+
 - name: Python
-  percentage: 75
-  color:
+  percentage: 78
+  color: primary
+
+
 
 
