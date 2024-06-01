@@ -11,11 +11,15 @@
   color: secondary
 
 - name: Latex
-  percentage: 85
+  percentage: 90
   color: primary
 
 - name: Python
-  percentage: 78
+  percentage: 85
+  color: primary
+
+- name: Go
+  percentage: 70
   color: primary
 
 

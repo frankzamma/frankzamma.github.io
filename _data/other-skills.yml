@@ -2,15 +2,15 @@
   percentage: 95
   color: info
 
-- name: PyCharm
-  percentage: 95
-  color: secondary
-
 - name: Artificial Intelligence
-  percentage: 60
+  percentage: 70
   color: info
 
-- name: ComputerMusic
-  percentage: 70
+- name: Compilers
+  percentage: 75
   color: primary
+
+- name: Compilers
+  percentage: 75
+  color:  primary
 
