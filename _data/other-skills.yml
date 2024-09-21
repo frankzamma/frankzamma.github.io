@@ -2,6 +2,10 @@
   percentage: 95
   color: info
 
+- name: Nmap
+  percentage: 50
+  color: info
+
 - name: Artificial Intelligence
   percentage: 70
   color: info
@@ -10,7 +14,7 @@
   percentage: 75
   color: primary
 
-- name: Compilers
-  percentage: 75
+- name: BlockChain
+  percentage: 55
   color:  primary
 
