@@ -36,7 +36,7 @@ I'm a tech lover and this are some of my skills 👇
 <div class="row">
 {% include about/timeline.html %}
 </div>
-<h1>International Experience</h1>
+<h1>Other Experience</h1>
 <!--- Inserimento attività professionali --->
 <div class="row">
 <div class="col mt-4">
